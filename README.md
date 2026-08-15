@@ -20,17 +20,17 @@ This organization serves as the dedicated home for all my code, infrastructure, 
 
 ### [Limooo-Website](https://github.com/Limooooo-Studio/Limooo-Website)
 
-The flagship project — a Flask‑based personal website and admin system running at [limooo.cn](https://limooo.cn)[reference:2].
+The flagship project — a Flask‑based personal website and admin system running at [limooo.cn](https://limooo.cn).
 
 **Key features**:
-- Public pages with dark/light theme switching[reference:3]
-- Admin dashboard with real‑time visitor analytics (IP, geolocation, ISP, ASN)[reference:4]
-- Encrypted Apple ID manager with CRUD and drag‑and‑drop ordering[reference:5]
-- Self‑hosted authentik OIDC single sign‑on with role‑based access[reference:6]
-- Automated IP blocking at both kernel and CDN levels[reference:7]
-- Unified redirect page with an interstitial[reference:8]
+- Public pages with dark/light theme switching
+- Admin dashboard with real‑time visitor analytics (IP, geolocation, ISP, ASN)
+- Encrypted Apple ID manager with CRUD and drag‑and‑drop ordering
+- Self‑hosted authentik OIDC single sign‑on with role‑based access
+- Automated IP blocking at both kernel and CDN levels
+- Unified redirect page with an interstitial
 
-**Tech Stack**: Flask, Gunicorn, Nginx (HTTP/3), Cloudflare, authentik, SQLite, MaxMind GeoLite2, Fernet encryption[reference:9]
+**Tech Stack**: Flask, Gunicorn, Nginx (HTTP/3), Cloudflare, authentik, SQLite, MaxMind GeoLite2, Fernet encryption
 
 ---
 
@@ -38,8 +38,8 @@ The flagship project — a Flask‑based personal website and admin system runni
 
 | Repository | Description |
 |------------|-------------|
-| [Sink](https://github.com/Limooooo-Studio/Sink) | A simple, speedy, and secure link shortener with analytics, 100% running on Cloudflare[reference:10] |
-| [.github](https://github.com/Limooooo-Studio/.github) | Organization profile README config — you're reading it right now[reference:11] |
+| [Sink](https://github.com/Limooooo-Studio/Sink) | A simple, speedy, and secure link shortener with analytics, 100% running on Cloudflare |
+| [.github](https://github.com/Limooooo-Studio/.github) | Organization profile README config — you're reading it right now |
 
 ---
 
