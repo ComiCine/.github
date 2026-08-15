@@ -57,12 +57,8 @@ The flagship project — a Flask‑based personal website and admin system runni
 
 ## 📬 Contact
 
-- **Website**: 
-
-  [limooo.cn](https://limooo.cn)
-- **Contact Page**: 
-
-  [contact.limooo.cn](https://contact.limooo.cn)
+- **Website**:  [limooo.cn](https://limooo.cn)
+- **Contact Page**: [contact.limooo.cn](https://contact.limooo.cn)
 
 ---
 
