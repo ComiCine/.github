@@ -32,7 +32,3 @@ Our official website, powered by Cloudflare Pages, Workers, D1, and R2.
 | Email | [contact@comicine.com](mailto:contact@comicine.com) |
 
 **Social:** [YouTube](https://www.youtube.com/@ComiCine-studio/) · [Instagram](https://www.instagram.com/comicine_studio/) · [X](https://x.com/ComiCine_studio/) · [BiliBili](https://space.bilibili.com/1234163143/)
-
----
-
-*Light speaks. We listen.*
