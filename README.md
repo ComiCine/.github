@@ -62,12 +62,11 @@ This repository contains the full-stack source for the website and its supportin
 
 | Area | Tools and technologies |
 | --- | --- |
-| Web development | [TypeScript](https://www.typescriptlang.org/), [JavaScript](https://tc39.es/ecma262/), [HTML](https://html.spec.whatwg.org/multipage/), [CSS](https://www.w3.org/Style/CSS/) |
-| Build and automation | [Python](https://www.python.org/), [Node.js](https://nodejs.org/en/) |
-| Cloud platform | [Cloudflare Pages](https://developers.cloudflare.com/pages/), [Workers](https://developers.cloudflare.com/workers/), [D1](https://developers.cloudflare.com/d1/), [R2](https://developers.cloudflare.com/r2/) |
+| Web development | [TypeScript,](https://www.typescriptlang.org/) [JavaScript,](https://tc39.es/ecma262/) [HTML,](https://html.spec.whatwg.org/multipage/) [CSS](https://www.w3.org/Style/CSS/) |
+| Build and automation | [Python,](https://www.python.org/) [Node.js](https://nodejs.org/en/) |
+| Cloud platform | [Cloudflare Pages,](https://developers.cloudflare.com/pages/) [Workers,](https://developers.cloudflare.com/workers/) [D1,](https://developers.cloudflare.com/d1/) [R2](https://developers.cloudflare.com/r2/) |
 | Documentation | [VitePress](https://vitepress.dev/) |
-| Development workflow | [Codex](https://openai.com/codex/), [GitHub Actions](https://docs.github.com/en/actions/) |
-
+| Development workflow | [Codex,](https://openai.com/codex/) [GitHub Actions](https://docs.github.com/en/actions/) |
 The stack changes as projects grow. These are the tools currently used across ComiCine's web and infrastructure work.
 
 ## Interests and Philosophy
