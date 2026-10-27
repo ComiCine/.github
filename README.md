@@ -9,7 +9,7 @@ ComiCine is [Lime](https://github.com/Lime-ComiCine/)'s independent creative stu
 Lime is a student, web developer, photographer, and video creator. ComiCine is where these interests meet: practical software projects alongside creative work.
 
 - Currently studying IGCSE while building independent projects
-- Uses [Codex](https://openai.com/codex/) and to turn ideas into working software
+- Uses [Codex](https://openai.com/codex/) to turn ideas into working software
 - Interested in web development, photography, video, and creative technology
 - Open to thoughtful collaborations and interesting experiments
 
@@ -33,7 +33,7 @@ Photography and video are an important part of ComiCine's creative work. They of
 
 ### [ComiCine Website](https://comicine.com/)
 
-[ComiCine Website](https://comicine.com/) is ComiCine's official website.
+[comicine.com](https://comicine.com/) is ComiCine's official website.
 
 ## Source Repository
 
@@ -88,8 +88,8 @@ Lime is balancing independent projects with school, so availability may vary. If
 
 - Website: [comicine.com](https://comicine.com/)
 - Contact page: [contact.comicine.com](https://contact.comicine.com/)
-- Email: [contact@comicine.com](mailto:contact@comicine.com/)
-- Personal Email: [lime@comicine.com](mailto:lime@comicine.com/)
+- Email: [contact@comicine.com](mailto:contact@comicine.com)
+- Personal Email: [lime@comicine.com](mailto:lime@comicine.com)
 
 ### Social
 
