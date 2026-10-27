@@ -1,13 +1,12 @@
-**ComiCine** is [Lime](https://github.com/Lime-ComiCine/)'s independent creative studio, combining software development, photography, and visual storytelling.
+**ComiCine** is [Lime](https://github.com/Lime-ComiCine/)'s creative studio, combining web development, photography, and visual storytelling.
 
 We build digital experiences and capture stories through light, motion, and technology.
 
 ## What We Do
 
-- **Software & Web** — Websites, web applications, cloud infrastructure, and developer tools.
-- **Photography** — Capturing moments, atmosphere, and visual stories.
-- **Film & Video** — Video production, editing, and creative content.
-- **Creative Technology** — Exploring the intersection of art, design, and engineering.
+- **Web Development** — Building websites, web applications, and supporting cloud services.
+- **Photography** — Photography, image editing, and visual storytelling.
+- **Film & Video** — Filming, video editing, and post-production.
 
 ## Projects
 
