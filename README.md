@@ -67,6 +67,7 @@ This repository contains the full-stack source for the website and its supportin
 | Cloud platform | [Cloudflare Pages,](https://developers.cloudflare.com/pages/) [Workers,](https://developers.cloudflare.com/workers/) [D1,](https://developers.cloudflare.com/d1/) [R2](https://developers.cloudflare.com/r2/) |
 | Documentation | [VitePress](https://vitepress.dev/) |
 | Development workflow | [Codex,](https://openai.com/codex/) [GitHub Actions](https://docs.github.com/en/actions/) |
+
 The stack changes as projects grow. These are the tools currently used across ComiCine's web and infrastructure work.
 
 ## Interests and Philosophy
